@@ -31,7 +31,8 @@ mkdir -p /c/work/yu-enpit
 cd /c/work/yu-enpit
 git clone https://github.com/アカウント名/課題名-アカウント名.git
 ```
-5. 自分のアカウント上のリポジトリ「課題名-アカウント名」がローカルに保存されます。
+5. 自分のアカウント上のリポジトリ「課題名-アカウント名」がローカルに保存されます。   
+※cloneに失敗する場合は、「Clone or download」から「Use SSH」をクリックしてURLをコピーし、git clone 以降に貼り付けてください。
 
 ### 4. プログラム修正
 1. ローカルにクローンしたリポジトリ「課題名-アカウント名」をAndroid Studioで開きます。  
